@@ -30,7 +30,7 @@ const Home = () => {
       }
     });
 
-    fetch('http://localhost:4000/api/shopping')
+    fetch('https://shoppingwebsite-5h1g.onrender.com/api/shopping')
       .then(res => res.json())
       .then(data => {
         setProducts(data.shopping);
