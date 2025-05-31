@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Navbar from '../Components/Navbar';
-import Footer from '../components/Footer';
+import Footer from '../Components/Footer';
 import { auth } from '../firebase';
 import './Home.css';
 
