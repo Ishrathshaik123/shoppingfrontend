@@ -9,7 +9,7 @@ import Signup from './pages/Signup';
 import Logout from './pages/Logout';
 import Admin from './pages/Admin';
 import UserLogin from './pages/Login';
-import Footer from '../Components/Footer';
+
 
 import './pages/AdminAuth.css'; // 👈 Make sure this file exists
 
