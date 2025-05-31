@@ -4,6 +4,8 @@ import Navbar from '../Components/Navbar';
 import Footer from '../components/Footer';
 import { auth } from '../firebase';
 import './Home.css';
+import Footer from '../Components/Footer';
+
 
 const Home = () => {
   const navigate = useNavigate();
